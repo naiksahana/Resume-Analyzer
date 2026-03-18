@@ -1,0 +1,5 @@
+com/resume/resume_analyzer/controller/ResumeController.class
+com/resume/resume_analyzer/service/ResumeService.class
+com/resume/resume_analyzer/ResumeAnalyzerApplication.class
+com/resume/resume_analyzer/model/Resume.class
+com/resume/resume_analyzer/repository/ResumeRepository.class
